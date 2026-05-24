@@ -15,3 +15,4 @@
 ##YOU HAVE TO ENTER DESCRIOTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 
 OUTPUT:
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a3aeff1f-787c-432b-a08c-bd6efbc44e2f" />
